@@ -1,5 +1,5 @@
 # 🛡️ FinShield - UPI Fraud Detection System
-> Real-time UPI Fraud Detection with **98.5% Accuracy** | Final Year Project
+> Real-time UPI Fraud Detection with **98.5% Accuracy** | First year  Year Project
 
 ## 🚀 Live Demo
 https://github.com/dipanshu11-ui/finshield-upi-fraud-detector
