@@ -2,7 +2,7 @@
 > Real-time UPI Fraud Detection with **98.5% Accuracy** | First year  Year Project
 
 ## 🚀 Live Demo
-https://github.com/dipanshu11-ui/finshield-upi-fraud-detector
+https://finshield-upi-fraud-detector.onrender.com
 
 ## ✨ Features
 - **Instant Check:** UPI transaction amount check ( >50000 = FRAUD, <50000 = SAFE )
